@@ -1,0 +1,14 @@
+
+#div-1 {
+    color: red;
+    background-color: yellow;
+}
+  
+
+@media only screen and (max-width: 400px) {
+
+    #div-1 {
+        color: black;
+    }
+
+}
